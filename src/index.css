@@ -1,0 +1,62 @@
+.almarai-light {
+    font-family: "Almarai", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.almarai-regular {
+    font-family: "Almarai", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.almarai-bold {
+    font-family: "Almarai", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.almarai-extrabold {
+    font-family: "Almarai", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.color-body {
+    height: 100vb;
+    background-color: #f8f8f8;
+}
+
+.rectangle {
+    height: 600px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    box-shadow: 1px 4px 4px 4px rgba(85, 85, 85, 0.25);
+}
+
+.date-count {
+    color: #555;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.font {
+    font-family: "Almarai", sans-serif;
+    font-size: 20px;
+}
+
+.btn-style {
+    border: none;
+    border-radius: 8px;
+    color: white;
+    background: #224f61;
+    padding: 8px; 
+}
+.img-avatar{
+height: 60px;
+width: 60px;
+border-radius: 50%;
+}
+body{
+    margin: 0;
+}
